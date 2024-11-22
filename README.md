@@ -30,7 +30,7 @@ After instillation confirm the installation went smoothly using `k6 version`.
 
 If everything is hunky dory, deploy a public facing application you had in mind to begin running tests. 
 
-And in a separate for a clean work space run the following command:
+And in a separate clean working directory be it git bash or a terminal, run the following command:
 ```python
 $ k6 new
 ```
@@ -57,13 +57,14 @@ export default function() {
 ```
 It's painfully obvious, but this is where you define your target in order to proceed. Replace this with the external Ip of the application you desire to test. 
 
-Now we can cook. 
+Now we can cook... 
 Go into your terminal or git bash and execute your script using the following:
 ```python
 $ k6 run script.js
 ```
 And now you should see the decorative output and the resulting information from your first basic test. 
 
+---
 I'd recommend reading the following article for clarification on best practices for writing tests:
 https://grafana.com/docs/k6/latest/testing-guides/test-types/
 
