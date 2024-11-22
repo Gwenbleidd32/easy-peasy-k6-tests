@@ -67,7 +67,7 @@ And now you should see the decorative output and the resulting information from 
 I'd recommend reading the following article for clarification on best practices for writing tests:
 https://grafana.com/docs/k6/latest/testing-guides/test-types/
 
-And this article for more details into writing k6 scripts.
+And this article for more details into writing k6 scripts:
 https://grafana.com/docs/k6/latest/get-started/running-k6/
 
 Within my attached repo you'll see an example of the 3 varying scripts I've used to test different integrations of my Kubernetes including Istio.  
@@ -76,3 +76,4 @@ Please try them out and Send me screenshots of your test results!
 
 ---
 *She's yours if you use the k6 operator version of this*
+![[body.jpg]]
