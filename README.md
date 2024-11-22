@@ -35,7 +35,7 @@ And in a separate clean working directory be it git bash or a terminal, run the 
 $ k6 new
 ```
 
-This will in turn generate a basic tutorial JavaScript file to run k6 tests on. K6 devises the instructions for the deployments of it's programmatically via JavaScript. Using basic functions You can define the following traits for testing: 
+This will in turn generate a basic tutorial JavaScript file to run k6 tests on. K6 devises the instructions for it's deployments programatically via JavaScript. Using basic functions You can define the following traits for testing: 
 
 - Amount of virtual users
 - Duration of the prescribed user amount
