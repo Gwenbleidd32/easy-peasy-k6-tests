@@ -74,6 +74,3 @@ Within my attached repo you'll see an example of the 3 varying scripts I've used
 
 Please try them out and Send me screenshots of your test results!
 
----
-*She's yours if you use the k6 operator version of this*
-![[body.jpg]]
